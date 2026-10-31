@@ -190,7 +190,7 @@ The initial exception evidence was retained after remediation to preserve the te
 
 ## Full Assessment Report
 
-📄 **[View the Full SOX ITGC Assessment Report](./reports/Christopher_Davis_CISA_Simulated_SOX_ITGC_Access_Control_Assessment.pdf)**
+📄 [View the Full SOX ITGC Assessment Report](reports/Christopher_Davis_CISA_Simulated_SOX_ITGC_Access_Control_Assessment.pdf)
 
 The report includes:
 
